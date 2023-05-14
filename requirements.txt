@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+opencv-python
+Jinja2
+pytesseract
+Pillow
+#tesseract-ocr
+# tesseract-ocr-por
+#opencv-python-headless
